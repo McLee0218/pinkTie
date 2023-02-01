@@ -1,5 +1,3 @@
-Creative Design Free Bootstrap 4 landing page 
-
 
 Credits:
 
